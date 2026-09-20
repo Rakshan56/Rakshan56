@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Rakshan+and+Welcome+to+my+Profile!" alt="Hey, I'm Rakshan and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 </div>
 <h2></h2>
-  <br />
-
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,java" alt="skills logos" /> <br>
   
@@ -30,6 +28,6 @@ Here are some ideas to get you started:
   
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,vercel" alt="skills logos" />
   <!-- docker,kubernetes,netlify -->
-<h2></h2>
+<!-- <h2></h2> -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sudhanva-Nadiger&theme=dark)](https://git.io/streak-stats) -->
