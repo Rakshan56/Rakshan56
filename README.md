@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 </div>
 <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,java" alt="skills logos" /> <br>
-  
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,java" alt="skills logos" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="skills logos" />
   <!-- ,next,redux,nodejs,expressjs,nest,mongodb,mysql,postgres,flutter,spring -->
-  <br>
-  
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,vercel" alt="skills logos" />
   <!-- docker,kubernetes,netlify -->
 <!-- <h2></h2> -->
