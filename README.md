@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,java" alt="skills logos" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,expressjs,mongodb,mysql,postgres" alt="skills logos" />
   <!-- ,next,redux,nest,flutter,spring -->
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,vercel" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,next,vscode,docker,vercel" alt="skills logos" />
   <!-- docker,kubernetes,netlify -->
 <!-- <h2></h2> -->
 
